@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр14", "Пр14\Пр14.csproj", "{FC28CF3D-FE40-42F6-A10B-55B025358F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLibrary1", "WpfLibrary1\WpfLibrary1.csproj", "{80F52C86-5E1E-4ACE-825A-2E1BE9F2FEA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC28CF3D-FE40-42F6-A10B-55B025358F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC28CF3D-FE40-42F6-A10B-55B025358F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC28CF3D-FE40-42F6-A10B-55B025358F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC28CF3D-FE40-42F6-A10B-55B025358F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F52C86-5E1E-4ACE-825A-2E1BE9F2FEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F52C86-5E1E-4ACE-825A-2E1BE9F2FEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F52C86-5E1E-4ACE-825A-2E1BE9F2FEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F52C86-5E1E-4ACE-825A-2E1BE9F2FEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
